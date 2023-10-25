@@ -1,0 +1,35 @@
+nav ul li{
+    display:inline;
+ 
+    text-align: center;
+    padding-left: 60px;
+}
+li{
+    list-style-type: none;
+}
+header{
+    text-align: center;
+    background-image: radial-gradient(rgb(244, 244, 248),rgb(215, 29, 215),rgb(8, 159, 200));
+color: rgb(39, 220, 78);
+font-style: italic;
+font-size: 30px;
+}
+body{
+    font-family: "Trirong", serif;
+}
+img{
+    border-radius: 50%;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+  }
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    width: 200px;
+  }
+ #chat{
+    float:bottom;
+ } 
